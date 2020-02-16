@@ -1,5 +1,8 @@
 _repo: France-from-Behind-the-Veil-Fifty-Years-of-Social-and-Political-Life_61359
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61359-h/images/cover.jpg
 creator:
   author:
     agent_name: Radziwill, Catherine, Princess
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6815
     wikipedia: http://en.wikipedia.org/wiki/Catherine_Radziwill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61359#France-from-Behind-the-Veil-Fifty-Years-of-Social-and-Political-Life
 gutenberg_issued: '2020-02-09'
 gutenberg_type: Text
 identifiers:
